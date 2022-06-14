@@ -1,0 +1,19 @@
+.pdiddy {
+    background-color: rgb(219, 134, 151);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#ocean {
+    color: blue;
+    font-size: 36px;
+}
+
+.part-three {
+    font-size: 24px;
+}
+
+#green-toad {
+    background-color: rgb(120, 220, 120);
+    font-size: 24px;
+    font-weight: bold;
+}
